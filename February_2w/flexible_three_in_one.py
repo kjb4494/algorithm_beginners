@@ -6,7 +6,7 @@ p.147 [스택과 큐]
 --> 하나의 배열로 세 개의 스택 구현하기
 """
 
-from random import randint
+from random import randint, choice
 from Stack import Stack
 
 
@@ -43,45 +43,57 @@ class ThreeStackInArr:
             except IndexError:
                 break
 
-    def get_arr(self):
-        return self._arr
-
     def push_in_stack_01(self, data):
         if self._current_stack_size < self._max_stack_size:
             self._current_stack_size += 1
             self._stack_01.push(data)
             self._re_sorting_arr()
+            print("stack_01: push data: {}".format(data))
         else:
-            print("push error: stack is full!")
+            print("stack_01: push error: stack is full!")
 
     def push_in_stack_02(self, data):
         if self._current_stack_size < self._max_stack_size:
             self._current_stack_size += 1
             self._stack_02.push(data)
             self._re_sorting_arr()
+            print("stack_02: push data: {}".format(data))
         else:
-            print("push error: stack is full!")
+            print("stack_02: push error: stack is full!")
 
     def push_in_stack_03(self, data):
         if self._current_stack_size < self._max_stack_size:
             self._current_stack_size += 1
             self._stack_03.push(data)
             self._re_sorting_arr()
+            print("stack_03: push data: {}".format(data))
         else:
-            print("push error: stack is full!")
+            print("stack_03: push error: stack is full!")
 
     def pop_in_stack_01(self):
-        if self._stack_01.pop():
+        if self._stack_01.is_empty():
+            print("stack_01: pop error: stack is empty!")
+        else:
+            print("stack_01: pop data: {}".format(self._stack_01.head.data))
+            self._stack_01.pop()
             self._current_stack_size -= 1
             self._re_sorting_arr()
 
     def pop_in_stack_02(self):
-        if self._stack_02.pop():
+        if self._stack_02.is_empty():
+            print("stack_02: pop error: stack is empty!")
+        else:
+            print("stack_02: pop data: {}".format(self._stack_02.head.data))
+            self._stack_02.pop()
             self._current_stack_size -= 1
             self._re_sorting_arr()
 
     def pop_in_stack_03(self):
-        if self._stack_03.pop():
+        if self._stack_03.is_empty():
+            print("stack_03: pop error: stack is empty!")
+        else:
+            print("stack_03: pop data: {}".format(self._stack_03.head.data))
+            self._stack_03.pop()
             self._current_stack_size -= 1
             self._re_sorting_arr()
 
@@ -108,31 +120,20 @@ class ThreeStackInArr:
 
 
 def main_code():
-    test_list = [None for i in range(randint(3, 10))]
-    print(test_list)
-    tsia = ThreeStackInArr(test_list)
-    tsia.push_in_stack_01(randint(-50, 50))
-    tsia.push_in_stack_01(randint(-50, 50))
-    tsia.push_in_stack_02(randint(-50, 50))
-    tsia.push_in_stack_03(randint(-50, 50))
-    tsia.push_in_stack_02(randint(-50, 50))
-    tsia.push_in_stack_02(randint(-50, 50))
-    tsia.push_in_stack_01(randint(-50, 50))
-    tsia.push_in_stack_02(randint(-50, 50))
-    tsia.push_in_stack_02(randint(-50, 50))
-    print(tsia.get_arr())
-    print(tsia.show_detail())
-    tsia.pop_in_stack_02()
-    tsia.pop_in_stack_02()
-    tsia.pop_in_stack_02()
-    tsia.pop_in_stack_01()
-    tsia.pop_in_stack_01()
-    tsia.pop_in_stack_01()
-    tsia.pop_in_stack_01()
-    tsia.pop_in_stack_01()
-    tsia.pop_in_stack_01()
-    print(tsia.get_arr())
-    print(tsia.show_detail())
+    test_arr = [None for i in range(randint(10, 15))]
+    push_function_name = ['push_in_stack_01', 'push_in_stack_02', 'push_in_stack_03']
+    pop_function_name = ['pop_in_stack_01', 'pop_in_stack_02', 'pop_in_stack_03']
+    print(test_arr)
+    tsia = ThreeStackInArr(test_arr)
+    for i in range(randint(3, 10)):
+        for j in range(randint(3, 10)):
+            tsia.__getattribute__(choice(push_function_name))(randint(-50, 50))
+        print("arr: {}".format(test_arr))
+        print("detail: {}".format(tsia.show_detail()))
+        for j in range(randint(3, 10)):
+            tsia.__getattribute__(choice(pop_function_name))()
+        print("arr: {}".format(test_arr))
+        print("detail: {}".format(tsia.show_detail()))
 
 
 if __name__ == "__main__":
