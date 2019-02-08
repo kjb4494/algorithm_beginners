@@ -21,9 +21,10 @@ class Stack:
 
     def pop(self):
         if self.is_empty():
-            return
-        print("pop: {} --> {}".format(self.head, self.head.data))
+            return False
+        # print("pop: {} --> {}".format(self.head, self.head.data))
         self.head = self.head.next
+        return True
 
     def peek(self):
         if self.is_empty():
