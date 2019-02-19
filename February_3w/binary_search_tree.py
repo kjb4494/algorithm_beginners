@@ -21,7 +21,7 @@ class BinarySearchTree:
                 node.right = self._insert_value(node.right, data)
         return node
 
-# ---- 트리값 확인을 위한 순회 알고리즘 ----
+    # ---- 트리값 확인을 위한 순회 알고리즘 ----
 
     # 전위 순회
     def pre_order_traversal(self):
@@ -32,21 +32,22 @@ class BinarySearchTree:
                 print(root.data, end=" ")
                 _pre_order_traversal(root.left)
                 _pre_order_traversal(root.right)
+
         _pre_order_traversal(self.root)
         print()
 
-
-    # 정위 순회
+    # 중위 순회
     def in_order_traversal(self):
-        def _in_order_traversal(root):
+        def _in_order_traversal(root, result):
             if root is None:
                 pass
             else:
-                _in_order_traversal(root.left)
-                print(root.data, end=" ")
-                _in_order_traversal(root.right)
-        _in_order_traversal(self.root)
-        print()
+                _in_order_traversal(root.left, result)
+                result.append(root.data)
+                _in_order_traversal(root.right, result)
+        result = []
+        _in_order_traversal(self.root, result)
+        return result
 
     # 후위 순회
     def post_order_traversal(self):
@@ -57,6 +58,7 @@ class BinarySearchTree:
                 _post_order_traversal(root.left)
                 _post_order_traversal(root.right)
                 print(root.data, end=" ")
+
         _post_order_traversal(self.root)
         print()
 
@@ -72,5 +74,6 @@ class BinarySearchTree:
                         queue.append(root.left)
                     if root.right:
                         queue.append(root.right)
+
         _level_order_traversal(self.root)
         print()

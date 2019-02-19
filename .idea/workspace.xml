@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49115846-3136-4e14-a499-5b04f27e2b53" name="Default Changelist" comment="마크다운 시간복잡도 추가">
-      <change afterPath="$PROJECT_DIR$/February_3w/binary_search_tree.py" afterDir="false" />
+    <list default="true" id="49115846-3136-4e14-a499-5b04f27e2b53" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/February_3w/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/February_3w/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/February_3w/binary_search_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/February_3w/binary_search_tree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/February_3w/minimum_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/February_3w/minimum_tree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/EGG-INFO/not-zip-safe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/EGG-INFO/not-zip-safe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/__init__.py" afterDir="false" />
@@ -295,42 +294,42 @@
     <session id="1166147682">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
-          <entry key="project.open.time.0" value="3" />
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.0" value="5" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.3" value="4" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.3" value="5" />
           <entry key="project.open.time.4" value="2" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="cfg" value="1" />
           <entry key="md" value="10" />
-          <entry key="py" value="36" />
+          <entry key="py" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="10" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="36" />
+          <entry key="Python" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="10" />
           <entry key="md" value="1479" />
-          <entry key="py" value="10129" />
-          <entry key="txt" value="243" />
+          <entry key="py" value="10822" />
+          <entry key="txt" value="258" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="1479" />
-          <entry key="PLAIN_TEXT" value="253" />
-          <entry key="Python" value="10129" />
+          <entry key="PLAIN_TEXT" value="268" />
+          <entry key="Python" value="10822" />
         </counts>
       </usages-collector>
     </session>
@@ -338,30 +337,31 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/February_3w/minimum_tree.py">
+        <entry file="file://$PROJECT_DIR$/February_3w/binary_search_tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-              <folding>
-                <element signature="e#133#180#0" expanded="true" />
-                <marker date="1550475619867" expanded="true" signature="614:673" ph="..." />
-                <marker date="1550475619867" expanded="true" signature="671:673" ph="..." />
-                <marker date="1550475619867" expanded="true" signature="1544:1642" ph="..." />
-                <marker date="1550475619867" expanded="true" signature="1639:1642" ph="..." />
-                <marker date="1550475619867" expanded="true" signature="1658:1940" ph="..." />
-              </folding>
+            <state relative-caret-position="835">
+              <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/February_3w/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="405">
-                <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/February_3w/minimum_tree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="591">
+              <caret line="57" column="20" lean-forward="true" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
+              <folding>
+                <element signature="e#133#180#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/January_5w/intersection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="111">
+              <caret line="41" column="63" selection-start-line="41" selection-start-column="54" selection-end-line="41" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -399,18 +399,18 @@
         <option value="$PROJECT_DIR$/February_2w/three_in_one.py" />
         <option value="$PROJECT_DIR$/February_2w/stack_min.py" />
         <option value="$PROJECT_DIR$/February_2w/Stack.py" />
-        <option value="$PROJECT_DIR$/February_3w/graph.py" />
         <option value="$PROJECT_DIR$/February_3w/path_between_nodes.py" />
         <option value="$PROJECT_DIR$/February_3w/binary_tree.py" />
-        <option value="$PROJECT_DIR$/February_3w/binary_search_tree.py" />
         <option value="$PROJECT_DIR$/February_3w/README.md" />
+        <option value="$PROJECT_DIR$/February_3w/graph.py" />
+        <option value="$PROJECT_DIR$/February_3w/binary_search_tree.py" />
         <option value="$PROJECT_DIR$/February_3w/minimum_tree.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="348" />
-    <option name="y" value="23" />
+    <option name="x" value="345" />
+    <option name="y" value="35" />
     <option name="width" value="1572" />
     <option name="height" value="947" />
   </component>
@@ -420,6 +420,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -446,7 +447,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -669,19 +669,25 @@
       <option name="project" value="LOCAL" />
       <updated>1550457163283</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="4.2 문제 풀이 해결">
+      <created>1550475943551</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1550475943551</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="348" y="23" width="1572" height="947" extended-state="0" />
-    <editor active="true" />
+    <frame x="345" y="35" width="1572" height="947" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24951644" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2857143" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3037215" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -691,6 +697,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -709,7 +716,8 @@
     <MESSAGE value="4.1 문제풀이 완료 및 마크다운에 이미지 첨부" />
     <MESSAGE value="4.1 주석 추가" />
     <MESSAGE value="마크다운 시간복잡도 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="마크다운 시간복잡도 추가" />
+    <MESSAGE value="4.2 문제 풀이 해결" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.2 문제 풀이 해결" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg">
@@ -746,13 +754,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/January_5w/intersection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="51" selection-start-line="51" selection-end-line="51" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/February_2w/decorators.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -777,13 +778,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/February_3w/graph.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/February_2w/flexible_three_in_one.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -795,9 +789,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <marker date="1549619180773" expanded="true" signature="11:12" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -805,10 +796,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="413">
           <caret line="95" column="4" lean-forward="true" selection-start-line="95" selection-start-column="4" selection-end-line="97" selection-end-column="15" />
-          <folding>
-            <element signature="e#117#143#0" expanded="true" />
-            <marker date="1549619025035" expanded="true" signature="1549:1552" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -816,12 +803,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#150#179#0" expanded="true" />
-            <marker date="1549619077886" expanded="true" signature="1186:1191" ph="..." />
-            <marker date="1549619077886" expanded="true" signature="1295:1297" ph="..." />
-            <marker date="1549619077886" expanded="true" signature="1313:1676" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -855,38 +836,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/February_3w/binary_search_tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
-          <caret line="75" column="15" selection-start-line="75" selection-start-column="15" selection-end-line="75" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/February_3w/path_between_nodes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="56" column="4" selection-start-line="56" selection-start-column="4" selection-end-line="58" selection-end-column="15" />
-          <folding>
-            <element signature="e#82#108#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/February_3w/minimum_tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          <folding>
-            <element signature="e#133#180#0" expanded="true" />
-            <marker date="1550475619867" expanded="true" signature="614:673" ph="..." />
-            <marker date="1550475619867" expanded="true" signature="671:673" ph="..." />
-            <marker date="1550475619867" expanded="true" signature="1544:1642" ph="..." />
-            <marker date="1550475619867" expanded="true" signature="1639:1642" ph="..." />
-            <marker date="1550475619867" expanded="true" signature="1658:1940" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/February_3w/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -894,6 +843,38 @@
             <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/February_3w/graph.py" />
+    <entry file="file://$PROJECT_DIR$/February_3w/path_between_nodes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="31" column="33" lean-forward="true" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/January_5w/intersection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="41" column="63" selection-start-line="41" selection-start-column="54" selection-end-line="41" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/February_3w/binary_search_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="835">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/February_3w/minimum_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="57" column="20" lean-forward="true" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
+          <folding>
+            <element signature="e#133#180#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
