@@ -5,6 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/January_5w" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/February_2w" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/February_3w" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/February_4w" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="inheritedJdk" />
