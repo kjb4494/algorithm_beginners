@@ -4,13 +4,13 @@
 즉, 트리의 깊이가 D라면 D개의 연결리스트를 만들어야한다.
 """
 
-from binary_search_tree import BinarySearchTree
+from binary_tree import BinaryTree
 from linked_list import LinkedList, setting_list
 from random import randint
 from decorators import time_measurement
 
 
-class Solution(BinarySearchTree):
+class Solution(BinaryTree):
     def __init__(self):
         super().__init__()
 

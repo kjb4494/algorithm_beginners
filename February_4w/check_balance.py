@@ -4,15 +4,28 @@
 오른쪽 부분 트리의 높이의 차이가 최대 하나인 트리를 의미한다.
 """
 
-from binary_search_tree import BinarySearchTree
+from binary_tree import Node, BinaryTree
 from random import randint
 from decorators import time_measurement
 
 
-class Solution(BinarySearchTree):
-    def __init__(self):
+class BinaryTreeWithDepthInfo(BinaryTree):
+    def __init__(self, random_levels=10):
         super().__init__()
+        self.random_level = random_levels
         self.left_or_right = False
+
+    def _insert_value(self, node, data):
+        if node is None:
+            node = Node(data)
+        else:
+            # 주어진 이진 트리에 무작위로 배치하기 위한 알고리즘
+            random_case = randint(0, 10)
+            if random_case >= randint(0, self.random_level):
+                node.left = self._insert_value(node.left, data)
+            else:
+                node.right = self._insert_value(node.right, data)
+        return node
 
     # 이진트리의 균형 정보를 반환하는 함수
     def get_balance_info(self):
@@ -83,7 +96,8 @@ def solution(bst):
 
 def main_code():
     array = list(set([randint(1, 400) for i in range(randint(10, 40))]))
-    bst = Solution()
+    # 매개변수가 10에 가까울수록 균형 잡힌 트리가 될 확률이 높음
+    bst = BinaryTreeWithDepthInfo(10)
     for x in array:
         bst.insert(x)
     print("이진 탐색 트리(전위 순회):", end=" ")
