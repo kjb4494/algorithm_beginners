@@ -90,19 +90,19 @@ class BinaryTreeWithDepthInfo(BinaryTree):
 
 
 @time_measurement
-def solution(bst):
-    return bst.get_balance_info()
+def solution(bt):
+    return bt.get_balance_info()
 
 
 def main_code():
     array = list(set([randint(1, 400) for i in range(randint(10, 40))]))
     # 매개변수가 10에 가까울수록 균형 잡힌 트리가 될 확률이 높음
-    bst = BinaryTreeWithDepthInfo(random_levels=10)
+    bt = BinaryTreeWithDepthInfo(random_levels=10)
     for x in array:
-        bst.insert(x)
+        bt.insert(x)
     print("이진 트리(전위 순회):", end=" ")
-    bst.pre_order_traversal()
-    is_balance, depth_info = solution(bst)
+    bt.pre_order_traversal()
+    is_balance, depth_info = solution(bt)
     if is_balance:
         print("균형 잡힌 트리입니다.")
     else:

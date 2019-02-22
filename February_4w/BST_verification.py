@@ -18,7 +18,7 @@ def main_code():
     for x in array:
         bt.insert(x)
     print("이진 트리(전위 순회):", end=" ")
-    bt.pre_order_traversal()
+    bt.pre_order_traversal(bt)
     solution()
 
 

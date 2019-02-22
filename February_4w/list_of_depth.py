@@ -34,8 +34,8 @@ class Solution(BinaryTree):
 
 
 @time_measurement
-def solution(bst):
-    depth_arrays = bst.get_depth_arrays()
+def solution(bt):
+    depth_arrays = bt.get_depth_arrays()
     linked_lists = []
     depth = 0
     # 생성된 이차배열을 이용해 연결리스트 생성 및 데이터 삽입 후 반환
@@ -48,12 +48,12 @@ def solution(bst):
 
 def main_code():
     array = list(set([randint(1, 400) for i in range(randint(10, 40))]))
-    bst = Solution()
+    bt = Solution()
     for x in array:
-        bst.insert(x)
+        bt.insert(x)
     print("이진 트리(전위 순회):", end=" ")
-    bst.pre_order_traversal()
-    linked_lists = solution(bst)
+    bt.pre_order_traversal()
+    linked_lists = solution(bt)
     for linked_list in linked_lists:
         linked_list.display()
 
