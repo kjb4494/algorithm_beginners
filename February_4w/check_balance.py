@@ -100,7 +100,7 @@ def main_code():
     bst = BinaryTreeWithDepthInfo(10)
     for x in array:
         bst.insert(x)
-    print("이진 탐색 트리(전위 순회):", end=" ")
+    print("이진 트리(전위 순회):", end=" ")
     bst.pre_order_traversal()
     is_balance, depth_info = solution(bst)
     if is_balance:

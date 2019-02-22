@@ -17,7 +17,7 @@ def main_code():
     bt = BinaryTree()
     for x in array:
         bt.insert(x)
-    print("이진 탐색 트리(전위 순회):", end=" ")
+    print("이진 트리(전위 순회):", end=" ")
     bt.pre_order_traversal()
     solution()
 

@@ -51,7 +51,7 @@ def main_code():
     bst = Solution()
     for x in array:
         bst.insert(x)
-    print("이진 탐색 트리(전위 순회):", end=" ")
+    print("이진 트리(전위 순회):", end=" ")
     bst.pre_order_traversal()
     linked_lists = solution(bst)
     for linked_list in linked_lists:
