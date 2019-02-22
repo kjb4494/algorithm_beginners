@@ -92,7 +92,7 @@ def main_code():
     if is_balance:
         print("균형 잡힌 트리입니다.")
     else:
-        print("균현 잡힌 트리가 아닙니다.")
+        print("균형 잡힌 트리가 아닙니다.")
     print("왼쪽 높이: {} / 오른쪽 높이: {}".format(depth_info.get_left_depth(), depth_info.get_right_depth()))
 
 
