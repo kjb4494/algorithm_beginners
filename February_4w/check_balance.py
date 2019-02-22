@@ -97,7 +97,7 @@ def solution(bst):
 def main_code():
     array = list(set([randint(1, 400) for i in range(randint(10, 40))]))
     # 매개변수가 10에 가까울수록 균형 잡힌 트리가 될 확률이 높음
-    bst = BinaryTreeWithDepthInfo(10)
+    bst = BinaryTreeWithDepthInfo(random_levels=10)
     for x in array:
         bst.insert(x)
     print("이진 트리(전위 순회):", end=" ")
