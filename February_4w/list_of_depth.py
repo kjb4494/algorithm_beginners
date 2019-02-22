@@ -10,7 +10,7 @@ from random import randint
 from decorators import time_measurement
 
 
-class Solution(BinaryTree):
+class BinaryTreeWithDepthArrays(BinaryTree):
     def __init__(self):
         super().__init__()
 
@@ -48,7 +48,7 @@ def solution(bt):
 
 def main_code():
     array = list(set([randint(1, 400) for i in range(randint(10, 40))]))
-    bt = Solution()
+    bt = BinaryTreeWithDepthArrays()
     for x in array:
         bt.insert(x)
     print("이진 트리(전위 순회):", end=" ")
