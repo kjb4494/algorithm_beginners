@@ -1,4 +1,7 @@
 #### 베스트 코드와 성능 비교 (1,000,000번 실행 속도 10회 측정)
+  * 측정 스펙
+  ![mac_info](https://user-images.githubusercontent.com/20035821/53933939-f85b5600-40e3-11e9-9390-e9f01598b536.png)
+  
   * stack_queue_alg
     ```
     # 내 코드
@@ -24,6 +27,7 @@
         --- 0.29076695442199707 seconds ---
         --- 0.28635334968566895 seconds ---
     ```
+  
   * greedy_alg
     ```
     # 내 코드
