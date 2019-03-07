@@ -3,6 +3,7 @@
     - 코드가 1,000,000번 수행된 시간을 측정
     - 10회 수행
     - PC 성능
+    
     ![mac_info](https://user-images.githubusercontent.com/20035821/53933939-f85b5600-40e3-11e9-9390-e9f01598b536.png)
   * stack_queue_alg
     ```
