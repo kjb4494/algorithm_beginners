@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49115846-3136-4e14-a499-5b04f27e2b53" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/March_1w/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/March_1w/decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/March_1w/greedy_alg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/March_1w/stack_queue_alg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/algorithm_beginners.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algorithm_beginners.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/February_4w/list_of_depth.py" beforeDir="false" afterPath="$PROJECT_DIR$/February_4w/list_of_depth.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,42 +19,42 @@
     <session id="1166147682">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="18" />
-          <entry key="project.open.time.0" value="8" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="21" />
+          <entry key="project.open.time.0" value="9" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.3" value="5" />
+          <entry key="project.open.time.3" value="6" />
           <entry key="project.open.time.4" value="3" />
-          <entry key="project.opened" value="19" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="cfg" value="1" />
-          <entry key="md" value="15" />
-          <entry key="py" value="79" />
+          <entry key="md" value="18" />
+          <entry key="py" value="83" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="15" />
+          <entry key="Markdown" value="18" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="79" />
+          <entry key="Python" value="83" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="35" />
-          <entry key="md" value="2602" />
-          <entry key="py" value="16184" />
-          <entry key="txt" value="322" />
+          <entry key="dummy" value="50" />
+          <entry key="md" value="2761" />
+          <entry key="py" value="16768" />
+          <entry key="txt" value="350" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="2602" />
-          <entry key="PLAIN_TEXT" value="357" />
-          <entry key="Python" value="16184" />
+          <entry key="Markdown" value="2761" />
+          <entry key="PLAIN_TEXT" value="400" />
+          <entry key="Python" value="16768" />
         </counts>
       </usages-collector>
     </session>
@@ -58,70 +62,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/February_4w/BST_verification.py">
+        <entry file="file://$PROJECT_DIR$/March_1w/greedy_alg.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+            <state relative-caret-position="361">
+              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
               <folding>
-                <element signature="e#57#91#0" expanded="true" />
-                <marker date="1550818119825" expanded="true" signature="219:220" ph="..." />
-                <marker date="1550818119825" expanded="true" signature="403:412" ph="..." />
+                <marker date="1551935646427" expanded="true" signature="1561:1566" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/February_4w/list_of_depth.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
-              <folding>
-                <element signature="e#111#145#0" expanded="true" />
-                <marker date="1550819512655" expanded="true" signature="995:1283" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/February_4w/binary_search_tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/February_4w/binary_tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
-              <folding>
-                <marker date="1550812062017" expanded="true" signature="153:158" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/February_4w/README.md">
+        <entry file="file://$PROJECT_DIR$/March_1w/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="390">
-                <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <first_editor relative-caret-position="417">
+                <caret line="50" column="7" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/January_5w/linked_list.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -173,6 +132,11 @@
         <option value="$PROJECT_DIR$/February_4w/BST_verification.py" />
         <option value="$PROJECT_DIR$/February_4w/README.md" />
         <option value="$PROJECT_DIR$/February_4w/list_of_depth.py" />
+        <option value="$PROJECT_DIR$/March_1w.py" />
+        <option value="$PROJECT_DIR$/March_1w/test_01.py" />
+        <option value="$PROJECT_DIR$/March_1w/stack_queue_alg.py" />
+        <option value="$PROJECT_DIR$/March_1w/greedy_alg.py" />
+        <option value="$PROJECT_DIR$/March_1w/README.md" />
       </list>
     </option>
   </component>
@@ -198,17 +162,12 @@
             <path>
               <item name="algorithm_beginners" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm_beginners" type="462c0819:PsiDirectoryNode" />
-              <item name="February_3w" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm_beginners" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm_beginners" type="462c0819:PsiDirectoryNode" />
-              <item name="February_4w" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm_beginners" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm_beginners" type="462c0819:PsiDirectoryNode" />
               <item name="January_5w" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm_beginners" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm_beginners" type="462c0819:PsiDirectoryNode" />
+              <item name="March_1w" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -224,6 +183,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/March_1w" />
       <recent name="$PROJECT_DIR$/February_4w" />
       <recent name="$PROJECT_DIR$/February_3w" />
       <recent name="$PROJECT_DIR$/February_2w" />
@@ -241,7 +201,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.depth_of_list">
+  <component name="RunManager" selected="Python.greedy_alg">
     <configuration name="BST_verification" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm_beginners" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -305,7 +265,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="minimum_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="greedy_alg" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm_beginners" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -313,11 +273,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/February_3w" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/March_1w" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/February_3w/minimum_tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/March_1w/greedy_alg.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -326,7 +286,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="path_between_nodes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm_beginners" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -334,11 +294,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/February_3w" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/March_1w" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/February_3w/path_between_nodes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/March_1w/stack_queue_alg.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -348,19 +308,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.path_between_nodes" />
-      <item itemvalue="Python.minimum_tree" />
       <item itemvalue="Python.depth_of_list" />
       <item itemvalue="Python.check_balance" />
       <item itemvalue="Python.BST_verification" />
+      <item itemvalue="Python.test_01" />
+      <item itemvalue="Python.greedy_alg" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.greedy_alg" />
+        <item itemvalue="Python.test_01" />
         <item itemvalue="Python.depth_of_list" />
         <item itemvalue="Python.BST_verification" />
         <item itemvalue="Python.check_balance" />
-        <item itemvalue="Python.minimum_tree" />
-        <item itemvalue="Python.path_between_nodes" />
       </list>
     </recent_temporary>
   </component>
@@ -487,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1550818770023</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="list_of_depth 클래스명 수정">
+      <created>1550819585450</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1550819585450</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -532,7 +499,8 @@
     <MESSAGE value="4.3 문제 풀이 해결" />
     <MESSAGE value="이진트리가 필요해지면서 구조 변경 ㅠㅠ 망할 4.5번 README도 수정" />
     <MESSAGE value="4.5 문제 해결" />
-    <option name="LAST_COMMIT_MESSAGE" value="4.5 문제 해결" />
+    <MESSAGE value="list_of_depth 클래스명 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="list_of_depth 클래스명 수정" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg">
@@ -660,16 +628,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/January_5w/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/February_4w/decorators.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -715,15 +673,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/February_4w/list_of_depth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/February_4w/BST_verification.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
-          <folding>
-            <element signature="e#57#91#0" expanded="true" />
-            <marker date="1550818119825" expanded="true" signature="219:220" ph="..." />
-            <marker date="1550818119825" expanded="true" signature="403:412" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -736,21 +696,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/February_4w/binary_tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
+        <state relative-caret-position="464">
           <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
-          <folding>
-            <marker date="1550812062017" expanded="true" signature="153:158" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/February_4w/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="390">
-            <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -761,14 +708,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/February_4w/list_of_depth.py">
+    <entry file="file://$PROJECT_DIR$/March_1w.py" />
+    <entry file="file://$PROJECT_DIR$/January_5w/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-line="5" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/March_1w/decorators.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+        <state relative-caret-position="150">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/February_4w/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="390">
+            <caret line="26" selection-start-line="26" selection-end-line="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/March_1w/stack_queue_alg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="69" column="19" lean-forward="true" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="25" />
           <folding>
-            <element signature="e#111#145#0" expanded="true" />
-            <marker date="1550819512655" expanded="true" signature="995:1283" ph="..." />
+            <marker date="1551935488751" expanded="true" signature="1737:1962" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/March_1w/greedy_alg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <marker date="1551935646427" expanded="true" signature="1561:1566" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/March_1w/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="417">
+            <caret line="50" column="7" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
