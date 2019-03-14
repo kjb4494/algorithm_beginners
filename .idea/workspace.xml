@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49115846-3136-4e14-a499-5b04f27e2b53" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/March_2w/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/March_2w/decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/March_2w/sort_alg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/algorithm_beginners.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algorithm_beginners.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/March_1w/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/March_1w/README.md" afterDir="false" />
     </list>
@@ -15,42 +19,42 @@
     <session id="1166147682">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="21" />
-          <entry key="project.open.time.0" value="9" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.closed" value="24" />
+          <entry key="project.open.time.0" value="10" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="6" />
-          <entry key="project.open.time.4" value="3" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.open.time.4" value="4" />
+          <entry key="project.opened" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="cfg" value="1" />
-          <entry key="md" value="22" />
-          <entry key="py" value="83" />
+          <entry key="md" value="23" />
+          <entry key="py" value="86" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="22" />
+          <entry key="Markdown" value="23" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="83" />
+          <entry key="Python" value="86" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="50" />
-          <entry key="md" value="2852" />
-          <entry key="py" value="16768" />
+          <entry key="md" value="2868" />
+          <entry key="py" value="17093" />
           <entry key="txt" value="384" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="2852" />
+          <entry key="Markdown" value="2868" />
           <entry key="PLAIN_TEXT" value="434" />
-          <entry key="Python" value="16768" />
+          <entry key="Python" value="17093" />
         </counts>
       </usages-collector>
     </session>
@@ -61,8 +65,8 @@
         <entry file="file://$PROJECT_DIR$/February_3w/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="75">
-                <caret line="5" column="12" lean-forward="true" selection-start-line="4" selection-start-column="64" selection-end-line="5" selection-end-column="12" />
+              <first_editor relative-caret-position="45">
+                <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
               </first_editor>
               <second_editor />
             </state>
@@ -73,8 +77,8 @@
         <entry file="file://$PROJECT_DIR$/March_1w/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="75">
-                <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
               </first_editor>
               <second_editor />
             </state>
@@ -84,13 +88,48 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/March_1w/greedy_alg.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+            <state relative-caret-position="420">
+              <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
               <folding>
                 <marker date="1551935646427" expanded="true" signature="1561:1566" ph="..." />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/March_1w/stack_queue_alg.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="406">
+              <caret line="69" column="21" selection-start-line="69" selection-start-column="21" selection-end-line="69" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/March_2w/sort_alg.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="54" column="16" lean-forward="true" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/March_2w/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/March_2w/decorators.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -144,15 +183,16 @@
         <option value="$PROJECT_DIR$/March_1w/test_01.py" />
         <option value="$PROJECT_DIR$/March_1w/stack_queue_alg.py" />
         <option value="$PROJECT_DIR$/March_1w/greedy_alg.py" />
+        <option value="$PROJECT_DIR$/March_2w/sort_alg.py" />
+        <option value="$PROJECT_DIR$/March_2w/README.md" />
         <option value="$PROJECT_DIR$/March_1w/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="163" />
-    <option name="y" value="49" />
-    <option name="width" value="1682" />
-    <option name="height" value="951" />
+    <option name="y" value="53" />
+    <option name="width" value="1680" />
+    <option name="height" value="947" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -160,6 +200,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,11 +228,15 @@
               <item name="algorithm_beginners" type="462c0819:PsiDirectoryNode" />
               <item name="March_1w" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithm_beginners" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm_beginners" type="462c0819:PsiDirectoryNode" />
+              <item name="March_2w" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -201,6 +246,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/March_2w" />
       <recent name="$PROJECT_DIR$/March_1w" />
       <recent name="$PROJECT_DIR$/February_4w" />
       <recent name="$PROJECT_DIR$/February_3w" />
@@ -219,7 +265,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.greedy_alg">
+  <component name="RunManager" selected="Python.sort_alg">
     <configuration name="BST_verification" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm_beginners" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -233,27 +279,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/February_4w/BST_verification.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="check_balance" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm_beginners" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/February_4w" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/February_4w/check_balance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -304,6 +329,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sort_alg" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm_beginners" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/March_2w" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/March_2w/sort_alg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm_beginners" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -327,18 +373,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.depth_of_list" />
-      <item itemvalue="Python.check_balance" />
       <item itemvalue="Python.BST_verification" />
       <item itemvalue="Python.test_01" />
       <item itemvalue="Python.greedy_alg" />
+      <item itemvalue="Python.sort_alg" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sort_alg" />
         <item itemvalue="Python.greedy_alg" />
         <item itemvalue="Python.test_01" />
         <item itemvalue="Python.depth_of_list" />
         <item itemvalue="Python.BST_verification" />
-        <item itemvalue="Python.check_balance" />
       </list>
     </recent_temporary>
   </component>
@@ -514,19 +560,26 @@
       <option name="project" value="LOCAL" />
       <updated>1551936419785</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="프로그래머스 문제 2개 해결 및 베스트 코드와 비교 완료">
+      <created>1551936619938</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1551936619938</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="163" y="49" width="1682" height="951" extended-state="0" />
+    <frame x="0" y="53" width="1680" height="947" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23299217" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23267028" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32893157" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35364395" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3529412" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2484994" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -767,16 +820,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/March_1w/stack_queue_alg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="69" column="19" lean-forward="true" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="25" />
-          <folding>
-            <marker date="1551935488751" expanded="true" signature="1737:1962" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/January_5w/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -784,16 +827,6 @@
             <caret selection-end-line="5" selection-end-column="7" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/March_1w/greedy_alg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
-          <folding>
-            <marker date="1551935646427" expanded="true" signature="1561:1566" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -810,18 +843,55 @@
     <entry file="file://$PROJECT_DIR$/February_3w/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="12" lean-forward="true" selection-start-line="4" selection-start-column="64" selection-end-line="5" selection-end-column="12" />
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/March_1w/greedy_alg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding>
+            <marker date="1551935646427" expanded="true" signature="1561:1566" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/March_2w/decorators.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/March_2w/sort_alg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="54" column="16" lean-forward="true" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/March_2w/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/March_1w/stack_queue_alg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="69" column="21" selection-start-line="69" selection-start-column="21" selection-end-line="69" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/March_1w/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
           </first_editor>
           <second_editor />
         </state>
