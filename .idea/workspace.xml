@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49115846-3136-4e14-a499-5b04f27e2b53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/March_3w/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/March_3w/decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/March_3w/jump_and_teleportation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/algorithm_beginners.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algorithm_beginners.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="49115846-3136-4e14-a499-5b04f27e2b53" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +12,7 @@
     <session id="1166147682">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="26" />
+          <entry key="project.closed" value="27" />
           <entry key="project.open.time.0" value="12" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.2" value="2" />
@@ -46,13 +40,13 @@
           <entry key="dummy" value="50" />
           <entry key="md" value="2921" />
           <entry key="py" value="17431" />
-          <entry key="txt" value="423" />
+          <entry key="txt" value="433" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="2921" />
-          <entry key="PLAIN_TEXT" value="473" />
+          <entry key="PLAIN_TEXT" value="483" />
           <entry key="Python" value="17431" />
         </counts>
       </usages-collector>
@@ -548,19 +542,25 @@
       <option name="project" value="LOCAL" />
       <updated>1552548698453</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="3월 3주차 프로그래머스 문제 해결&#10;&#10;너무 쉬웠음">
+      <created>1553157702571</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1553157702571</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="53" width="1680" height="947" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23267028" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23267028" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32893157" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30612245" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30612245" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2484994" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -596,7 +596,8 @@
     <MESSAGE value="list_of_depth 클래스명 수정" />
     <MESSAGE value="프로그래머스 문제 2개 해결 및 베스트 코드와 비교 완료" />
     <MESSAGE value="3월 2주차 프로그래머스 문제 해결&#10;&#10;한줄빌런 때문에 현탐온다..." />
-    <option name="LAST_COMMIT_MESSAGE" value="3월 2주차 프로그래머스 문제 해결&#10;&#10;한줄빌런 때문에 현탐온다..." />
+    <MESSAGE value="3월 3주차 프로그래머스 문제 해결&#10;&#10;너무 쉬웠음" />
+    <option name="LAST_COMMIT_MESSAGE" value="3월 3주차 프로그래머스 문제 해결&#10;&#10;너무 쉬웠음" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg">
