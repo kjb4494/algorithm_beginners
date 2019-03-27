@@ -1,6 +1,7 @@
+package March_3w;
 
-public class Solution {
-    public int solution(int n) {
+public class JumpAndTelpo {
+    protected int solution(int n) {
         int answer = 0;
         String binary_n = Integer.toBinaryString(n);
         for (int i=0; i < binary_n.length(); i++){

@@ -1,7 +1,9 @@
+package March_2w;
+
 import java.util.Arrays;
 
-class Solution {
-    public int solution(int[] citations) {
+class HIndex {
+    protected int solution(int[] citations) {
         Arrays.sort(citations);
         reverseArrayInt(citations);
         int answer = 0;

@@ -2,21 +2,13 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/January_5w" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/February_2w" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/February_3w" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/February_4w" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/January_5w" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/March_1w" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/March_2w" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/March_3w" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Python3/February_2w" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Python3/February_3w" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Python3/February_4w" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Python3/January_5w" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Python3/March_1w" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Python3/March_2w" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Python3/March_3w" isTestSource="false" />
-      <excludeFolder url="file://$MODULE_DIR$/Python3/venv" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.7 (algorithm_beginners)" jdkType="Python SDK" />
