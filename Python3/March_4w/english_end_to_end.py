@@ -85,18 +85,12 @@ from decorators import time_measurement
 
 def solution(n, words):
     bucket = set()
-    answer = [0, 0]
-    for i, word in enumerate(words, start=1):
-        if i > 1:
-            if words[i - 2][-1] != word[0] or word in bucket:
-                answer[1] = 1
-                while i > n:
-                    i -= n
-                    answer[1] += 1
-                answer[0] = i
-                break
-        bucket.add(word)
-    return answer
+    bucket.add(words[0])
+    for i in range(1, len(words)):
+        if words[i][0] != words[i - 1][-1] or words[i] in bucket:
+            return [i % n + 1, i // n + 1]
+        bucket.add(words[i])
+    return [0, 0]
 
 
 def best_solution(n, words):
