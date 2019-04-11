@@ -1,7 +1,6 @@
 # https://programmers.co.kr/learn/courses/30/lessons/42842?language=java
 
 # 그림 있어서 문제 쓰기 귀찮음
-# 딱히 획기적인 풀이가 없어서 베스트코드 생략
 
 
 def solution(brown, red):
@@ -19,8 +18,18 @@ def solution(brown, red):
     return answer
 
 
+# 수학으로 풀이
+# x^2 + ax + b = 0 이차방정식의 해
+def best_solution(brown, red):
+    a = (brown + 4) // 2
+    b = brown + red
+    c = (a * a - 4 * b) ** 0.5
+    return [(a + c) // 2, (a - c) // 2]
+
+
 def main_code():
     print(solution(24, 24))
+    print(best_solution(24, 24))
 
 
 if __name__ == "__main__":
